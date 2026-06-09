@@ -12,7 +12,7 @@
     
 <h2> / about me / </h2>
   
-- :computer:  full stack JavaScript developer with over 6 years of experience 
+- :computer:  full stack JavaScript developer with over 7 years of experience 
 - ⭐ currently working on **web-development**, **Specialize in back-end-development** and **front-end-development**
 - ☁️ Experienced in cloud engineering, with proficiency in AWS, GCP, and Azure, enabling scalable and efficient cloud-based solutions.
 - 💀 mostly working on **private repositories**
